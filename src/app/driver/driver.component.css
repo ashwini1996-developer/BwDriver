@@ -1,0 +1,23 @@
+.scroll-bar {
+    height: 570px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding:0px 15px 15px 15px;
+}
+.driver-type {
+    padding-left:10px;
+}
+.driver-type > h3{
+     display: inline;
+}
+.mat-tab-body-content {
+    height: 100%;
+    overflow-x: hidden !important;
+}
+.mat-tab-body-content {
+    height: 100%;
+    overflow: hidden !important;
+}
+.icon-size {
+   width: 30px;
+}
